@@ -1,0 +1,25 @@
+/* Write all your CSS here */
+/* Please indent properly */
+/* Please use only lower-case letters */
+/* Your webpage should be 100% responsive!!! */
+
+
+.left-nav{
+    background-color: #3f0e40 !important;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+nav{
+    color: rgb(235, 220, 235);
+}
+li a{
+    color: white;
+}
+.main-container{
+    display: flex;
+}
+.container{
+    background-color: solid white;
+    font-family: 'Roboto', sans-serif;
+}
